@@ -6,9 +6,12 @@ It can process images and videos to identify objects, faces.
 
 # Library I have Used In This Program
 
-1)Matplotlib\n
-2)numpy\n
-3)opencv\n
+1)Matplotlib
+
+2)numpy
+
+3)opencv
+
 4)Keras Framework
 
 using This Library I have detected Water leakage through Images.
