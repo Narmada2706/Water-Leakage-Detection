@@ -6,14 +6,20 @@ It can process images and videos to identify objects, faces.
 
 # Library I have Used In This Program
 
-Matplotlib
-numpy
-opencv
-Keras Framework
+1)Matplotlib
+2)numpy
+3)opencv
+4)Keras Framework
 
 using This Library I have detected Water leakage through Images.
 
 In order to prevent serious damage being done through faulty pipes.It is essential to detect leakage before disaster hits.
+
+# Who am I?
+My Name is Narmada .I am Pursuing Third Year in Computer Science And Engineering from SGGS College Nanded.
+
+# Other Useful Links:
+https://www.linkedin.com/in/narmada-ugale-b411a61ab/
 
 
 
